@@ -7,7 +7,9 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package "libev-devel"
+package "git"
+package "build-essential"
+package "libev-dev"
 
 localrepo_path = "#{Chef::Config[:file_cache_path]}/weighttp"
 giturl = "https://github.com/lighttpd/weighttp.git"
