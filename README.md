@@ -1,6 +1,7 @@
-weighttp Cookbook
+Weighttp Cookbook
 =================
-TODO: Enter the cookbook description here.
+Chef cookbook of weighttp
+http://weighttp.lighttpd.net/
 
 e.g.
 This cookbook makes your favorite breakfast sandwhich.
